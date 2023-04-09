@@ -1,2 +1,3 @@
-# First-Website-with-Flask
-building website with Flask Framework : )
+# Alpha-Careers-Website
+
+this website is built on Flask with python
