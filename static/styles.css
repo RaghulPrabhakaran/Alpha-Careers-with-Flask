@@ -12,7 +12,7 @@ h2 {
   text-align:center;
   margin:0 auto 0 auto;
   padding-top:15px;
-  padding-bottom:7px;
+  padding-bottom:15px;
 }
 
 p{
@@ -20,6 +20,7 @@ p{
   font-size:15px;
   text-align:center;
 }
+
 
 #container{
   
@@ -34,9 +35,15 @@ p{
 #button{
   color:#373e98;
   text-align:center;
-  padding-top:10px;
-  padding-bottom:40px;
+  padding-top:15px;
+  padding-bottom:10px;
   
+}
+
+.navbar-brand {
+  color: #373e98;
+  font-family:graduate;
+  font-weight: bold;
 }
 
 .logo {
